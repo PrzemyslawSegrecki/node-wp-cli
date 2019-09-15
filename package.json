@@ -1,6 +1,6 @@
 {
   "name": "node-wp-cli",
-  "version": "0.0.4",
+  "version": "0.0.41",
   "description": "A nodejs wrapper for `WP-CLI`",
   "main": "./lib/index.js",
   "scripts": {
@@ -9,14 +9,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wp-artisan/node-wp-cli.git"
+    "url": "git+https://github.com/PrzemyslawSegrecki/node-wp-cli.git"
   },
-  "author": "thinkholic <mailtokasun@gmail.com> (http://www.thinkholic.com)",
+  "author": "thinkholic <mailtokasun@gmail.com> (http://www.thinkholic.com) / Przemysław Segrecki mod",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/wp-artisan/node-wp-cli/issues"
-  },
-  "homepage": "https://github.com/wp-artisan/node-wp-cli#readme",
+  "homepage": "https://github.com/PrzemyslawSegrecki/node-wp-cli#readme",
   "dependencies": {
     "lodash": "^4.17.11",
     "shelljs": "^0.8.1"
